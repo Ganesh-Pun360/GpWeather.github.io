@@ -1,0 +1,18 @@
+{
+  "name": "expresswebproject",
+  "version": "1.0.0",
+  "description": "developing express based project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wow"
+  ],
+  "author": "Ganesh pun developer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  }
+}
